@@ -1,8 +1,7 @@
 //Autor: Guilherme Carvalho
 //Data: 13/05/2022
 programa{	funcao inicio()
-{ // Exercício média de notas
-	
+{
 	inteiro n1, n2, n3, n4, n5, media
 	
 	escreva("Entre com a nota do 1º aluno: ")
@@ -19,16 +18,4 @@ programa{	funcao inicio()
 	media = (n1 + n2 + n3 + n4 + n5) / 5
 
 	escreva("O média das notas dos alunos é: ", media,  ".")
-
 }}
-/* $$$ Portugol Studio $$$ 
- * 
- * Esta seção do arquivo guarda informações do Portugol Studio.
- * Você pode apagá-la se estiver utilizando outro editor.
- * 
- * @POSICAO-CURSOR = 46; 
- * @PONTOS-DE-PARADA = ;
- * @SIMBOLOS-INSPECIONADOS = ;
- * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
- * @FILTRO-ARVORE-TIPOS-DE-SIMBOLO = variavel, vetor, matriz, funcao;
- */
